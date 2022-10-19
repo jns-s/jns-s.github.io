@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://jns-s.github.io</id>
+    <title>小金子</title>
+    <updated>2022-10-19T09:26:34.388Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://jns-s.github.io"/>
+    <link rel="self" href="https://jns-s.github.io/atom.xml"/>
+    <subtitle>及时宜自勉，岁月不待人。</subtitle>
+    <logo>https://jns-s.github.io/images/avatar.png</logo>
+    <icon>https://jns-s.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, 小金子</rights>
+    <entry>
+        <title type="html"><![CDATA[在这懵懂的年纪，总有很多幼稚的想法]]></title>
+        <id>https://jns-s.github.io/post/zai-zhe-meng-dong-de-nian-ji-zong-you-hen-duo-you-zhi-de-xiang-fa/</id>
+        <link href="https://jns-s.github.io/post/zai-zhe-meng-dong-de-nian-ji-zong-you-hen-duo-you-zhi-de-xiang-fa/">
+        </link>
+        <updated>2022-10-17T13:49:43.000Z</updated>
+        <content type="html"><![CDATA[<pre><code>花开时绚烂，意味着美丽和危险，但它依旧定时开放；你也要不畏未知的危险，不向困难低头，努力绽放。   —— 2022-10-17
+
+  突然喜欢梦想照进现实。——2022-10-18
+</code></pre>
+<p><img src="https://jns-s.github.io/post-images/1666072021420.jpg" alt="" loading="lazy"><br>
+难受，不想在取悦别人的事上浪费时间，可是发现你取悦她你就可能没法在这个世上活下去。<br>
+难道我真的不该在这个世上拥有正常人的生活吗？一到这个世上就面临遗弃，后来你以为有个人救了你，（同样，哪怕现在心情奔溃的我也仍旧抱着感激之情）其实不过是迈入了另一个深渊，从小 就和别人不一样，没有深爱的父母，只有商业，苛刻的商业，而我成为了商业品，听他们的好好读书,甚至在15岁之前从未吃过那被她们定义的不健康的垃圾食品炸鸡，烧烤，可乐，薯片……（之后也是背着她们吃的，而在她们看来我现在也没吃过，也不应该吃）。<br>
+在这样的背景下，我比一般人更敏感，别人随便的一句话或者自己发给别人的一句话都可以发我的头脑风暴，而我还要一面装着很平常的样子，一面又在调整自己的心态，让自己心里不会因为那句话而难受，这么敏感的我，怎么可能会发现不了她们对的感情，哈哈，真是搞笑。<br>
+你能够想象一个四五岁的，最依赖父母的孩子，在听说能离开父母和一个一面之缘的人走的高兴吗？你能够想象一个四五岁的孩子跟在一群成年人身后快走的样子吗？而自己所谓的母亲正yao这我那所谓<br>
+的十七八岁的表哥走在前面，你知道那个时候的我有多失落吗？我现在想着为什么当时我要追上去，我就应该躲在一个角落里，让我重回可以包容万物的大自然；你能够想象一个四五的孩子无辜的被骂吗？（只因为你所谓的父母心情不好，所以我从小就是看着她们脸色活着的。）你能够想象当我看到别的小孩看到自己父亲回家时，他父亲激动的把他举高高，而我也同样期待着，同样以为着，可是得到的只有冷淡的回应和擦肩而过。<br>
+失落多了，你的心就告诉你自己，你并不在意这些，而你也开始表现出不在意，小学的时候开始装冷酷，可是后来你发现因为冷酷你并没有朋友，所以你到了初中你就开始装着不在意的同时，装着热情开朗。<br>
+真是搞笑，即将大学了，回首我的过往，我发现我好像没有那天我是做真实的自己的，真的好累，真的好像结束这一切，可是现在的我却”负债累累“，如果这个时候</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://jns-s.github.io/post/hello-gridea/</id>
+        <link href="https://jns-s.github.io/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+<!-- more -->
+<p><a href="https://github.com/getgridea/gridea">Github</a><br>
+<a href="http://hvenotes.fehey.com/">Gridea 主页</a><br>
+<a href="http://fehey.com/">示例网站</a></p>
+<h2 id="特性">特性👇</h2>
+<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
+<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
+<p>🏷️  你可以对文章进行标签分组</p>
+<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
+<p>💻  你可以在 <strong>𝖶𝗂𝗇𝖽𝗈𝗐𝗌</strong> 或 <strong>𝖬𝖺𝖼𝖮𝖲</strong> 设备上使用此客户端</p>
+<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
+<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
+<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
+<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
+<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
+<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前🏃</p>
+<p>未来，它一定会成为你离不开的伙伴</p>
+<p>尽情发挥你的才华吧！</p>
+<p>😘 Enjoy~</p>
+]]></content>
+    </entry>
+</feed>
