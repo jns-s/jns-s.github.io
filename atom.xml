@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jns-s.github.io</id>
     <title>小金子</title>
-    <updated>2022-10-19T15:07:50.773Z</updated>
+    <updated>2022-10-19T15:11:54.359Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jns-s.github.io"/>
     <link rel="self" href="https://jns-s.github.io/atom.xml"/>
@@ -12,8 +12,8 @@
     <rights>All rights reserved 2022, 小金子</rights>
     <entry>
         <title type="html"><![CDATA[在这懵懂的年纪，总有很多放在心里的事]]></title>
-        <id>https://jns-s.github.io/post/zai-zhe-meng-dong-de-nian-ji-zong-you-hen-duo-fang-zai-xin-li-de-shi/</id>
-        <link href="https://jns-s.github.io/post/zai-zhe-meng-dong-de-nian-ji-zong-you-hen-duo-fang-zai-xin-li-de-shi/">
+        <id>https://jns-s.github.io/zai-zhe-meng-dong-de-nian-ji-zong-you-hen-duo-fang-zai-xin-li-de-shi/</id>
+        <link href="https://jns-s.github.io/zai-zhe-meng-dong-de-nian-ji-zong-you-hen-duo-fang-zai-xin-li-de-shi/">
         </link>
         <updated>2022-10-19T10:42:04.000Z</updated>
         <content type="html"><![CDATA[<pre><code>                          如果不爱就不要假装深爱
@@ -34,8 +34,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[在这懵懂的年纪，总有很多幼稚的想法]]></title>
-        <id>https://jns-s.github.io/post/zai-zhe-meng-dong-de-nian-ji-zong-you-hen-duo-you-zhi-de-xiang-fa/</id>
-        <link href="https://jns-s.github.io/post/zai-zhe-meng-dong-de-nian-ji-zong-you-hen-duo-you-zhi-de-xiang-fa/">
+        <id>https://jns-s.github.io/zai-zhe-meng-dong-de-nian-ji-zong-you-hen-duo-you-zhi-de-xiang-fa/</id>
+        <link href="https://jns-s.github.io/zai-zhe-meng-dong-de-nian-ji-zong-you-hen-duo-you-zhi-de-xiang-fa/">
         </link>
         <updated>2022-10-17T13:49:43.000Z</updated>
         <content type="html"><![CDATA[<pre><code>花开时绚烂，意味着美丽和危险，但它依旧定时开放；你也要不畏未知的危险，不向困难低头，努力绽放。   —— 2022-10-17
@@ -47,8 +47,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://jns-s.github.io/post/hello-gridea/</id>
-        <link href="https://jns-s.github.io/post/hello-gridea/">
+        <id>https://jns-s.github.io/hello-gridea/</id>
+        <link href="https://jns-s.github.io/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
